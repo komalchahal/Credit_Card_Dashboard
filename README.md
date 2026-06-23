@@ -43,9 +43,11 @@ KPI Cards: Total Customers, Total Revenue, Avg. Satisfaction Score, and Total In
 
 ### Analysis:
 
-Revenue by Age Group: Identifying which generation drives the most interest.
+Revenue by Age Group: Identifying which generation drives the most interest.The 46-55 age group generated the highest revenue.
 
 Revenue by Income Level: Analyzing spending power across Low, Mid, and High-income tiers.
+
+Revenvue Trend By Gender: Revenue showed seasonal Fluctuations, reaching its highest leveles inMay and December.
 
 Risk Profile: Monitoring Delinquent Accounts by Marital Status and Education.
 
@@ -60,7 +62,8 @@ Focus: Sales Trends, Profitability, and Channel Usage.
 KPI Cards: Total Transaction Amount, Total Transaction Vol, and Avg. Utilization Ratio.
 
 ### Analysis: 
-Weekly Revenue Trend: Time-series line chart tracking weekly performance.
+
+Monthly/ Weekly Revenue Trend: Time-series line chart tracking weekly performance.
 
 Spending by Expense Type: Treemap showing distribution across Bills, Food, Fuel, Entertainment, etc.
 
@@ -72,11 +75,11 @@ Quarterly Growth:Q1 to Q4 revenue progression using Area Charts.
 
 ## Key Business Insights
 
-Profitability: Identified that mid-age (26-45) customers in the High-Income bracket provide the best ROI.
+Profitability: Identified that mid-age (46-55) customers in the High-Income bracket provide the best ROI.
 
 Utilization: A high Credit Utilization Ratio correlates with higher revenue but also shows a spike in delinquency risk.
 
-Channel Adoption: "Online" and "Chip" transactions are growing faster than traditional "Swipe" methods.
+Transaction Method : "Swipe" transactions dominated over online and Chip transactions.
 
 Category Focus: The "Blue" card category maintains the highest customer volume, while "Gold/Platinum" cards show higher revenue per user.
 
